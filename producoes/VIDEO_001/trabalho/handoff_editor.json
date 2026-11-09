@@ -1,0 +1,14 @@
+{
+  "task_id": "VIDEO_001",
+  "agent": "editor",
+  "status": "completed",
+  "deliverable": ["producoes/VIDEO_001/video_final.mp4", "producoes/VIDEO_001/relatorio_producao.md", "producoes/VIDEO_001/plano_postagem.md"],
+  "summary": "video_final.mp4 de 49,6 s, 1080×1920, 30 fps, H.264+AAC, -14,0 LUFS / -1,1 dBTP, 4 cenas 2D em Remotion com legenda palavra a palavra sincronizada (desvio médio 0,028 s) e trilha/SFX sintetizados. Voz Gemini Sulafat gerada 1 vez (67,6 s) e encurtada para 48,95 s sem cortar palavras (pausas menores + atempo 1,08); render 878 s.",
+  "issues": [
+    {"problema": "Narração pode soar corrida: pausas após ponto reduzidas a ~0,22 s e voz acelerada 1,08× para caber em 50 s", "local": "vídeo inteiro", "gravidade": "media", "correcao": "Se a Lucila achar corrido: regenerar a voz pedindo ritmo um pouco mais ágil no texto.txt e usar pausas de 0,30 s", "responsavel": "editor"},
+    {"problema": "Áudio não foi ouvido por humano (pronúncia de 'pro', tom da voz, timbre dos SFX sintetizados como risadinhas e trovão)", "local": "vídeo inteiro", "gravidade": "media", "correcao": "Escuta do revisor/Lucila", "responsavel": "revisor"},
+    {"problema": "No plano final a legenda (y=1450) cobre a boca do Pedrinha; os olhos ficam visíveis", "local": "00:45,4–00:49,6 / cena 4", "gravidade": "baixa", "correcao": "Aceitar ou reenquadrar a câmera do plano médio", "responsavel": "editor"}
+  ],
+  "next_agent": "revisor",
+  "instructions": "Revisar video_final.mp4 com foco em animação, legenda e narração (beta D-007); medidas e pontos de sincronia no relatorio_producao.md e em TESTES.md. Ouvir o áudio (o editor não ouve) e conferir ortografia das 51 telas de legenda contra trabalho/voz/texto.txt."
+}

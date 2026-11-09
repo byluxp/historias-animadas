@@ -1,0 +1,13 @@
+{
+  "task_id": "VIDEO_001",
+  "agent": "editor",
+  "status": "completed",
+  "deliverable": ["producoes/VIDEO_001/video_final.mp4", "producoes/VIDEO_001/relatorio_producao.md", "producoes/VIDEO_001/versoes/video_final_v1.mp4"],
+  "summary": "Rodada 1 corrigida (#1, #2, #3, #4, #6, #7). O plano final mostra o rosto inteiro do Pedrinha, a barragem aparece em 'parou' com Pedrinha enorme e Tomás no quadro, e a voz ficou 23,7 dB acima do resto na cena 3 (antes 8,7) e 27,9 dB na cena 4. Vídeo com 49,6 s, -14,0 LUFS e -1,1 dBTP; v1 guardada em versoes/.",
+  "issues": [
+    {"problema": "Pausas da voz (#5) mantidas de propósito, aguardando a escuta da Lucila", "local": "vídeo inteiro", "gravidade": "media", "correcao": "Lucila ouve e decide", "responsavel": "usuario"},
+    {"problema": "Pior palavra da cena 3 ainda 11,6 dB acima do resto ('e', 27,3 s, sob a água subindo); a mediana passou de 15 dB", "local": "00:27,3 / cena 3", "gravidade": "baixa", "correcao": "Aceitar ou baixar mais o SFX de água nesse ponto", "responsavel": "editor"}
+  ],
+  "next_agent": "revisor",
+  "instructions": "Conferir só os itens #1, #2, #3, #4, #6 e #7 da revisao.md no novo video_final.mp4 (a seção 'Rodada 1' do relatorio_producao.md tem o que mudou e as medidas). Os trechos re-renderizados são os frames 330–419 e 1050–1487; o resto é idêntico à v1."
+}

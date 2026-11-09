@@ -1,0 +1,709 @@
+[
+ {
+  "word": "Todo",
+  "start": 0.069,
+  "end": 0.227
+ },
+ {
+  "word": "dia,",
+  "start": 0.227,
+  "end": 0.727
+ },
+ {
+  "word": "Tomás",
+  "start": 0.954,
+  "end": 1.37
+ },
+ {
+  "word": "regava",
+  "start": 1.37,
+  "end": 1.981
+ },
+ {
+  "word": "uma",
+  "start": 1.981,
+  "end": 2.204
+ },
+ {
+  "word": "pedra.",
+  "start": 2.204,
+  "end": 2.667
+ },
+ {
+  "word": "Na",
+  "start": 2.875,
+  "end": 3.005
+ },
+ {
+  "word": "vila,",
+  "start": 3.005,
+  "end": 3.301
+ },
+ {
+  "word": "todo",
+  "start": 3.463,
+  "end": 3.593
+ },
+ {
+  "word": "mundo",
+  "start": 3.593,
+  "end": 3.833
+ },
+ {
+  "word": "ria.",
+  "start": 3.833,
+  "end": 4.167
+ },
+ {
+  "word": "Diziam",
+  "start": 4.421,
+  "end": 4.801
+ },
+ {
+  "word": "que",
+  "start": 4.801,
+  "end": 4.968
+ },
+ {
+  "word": "pedra",
+  "start": 4.968,
+  "end": 5.37
+ },
+ {
+  "word": "não",
+  "start": 5.37,
+  "end": 5.519
+ },
+ {
+  "word": "bebe",
+  "start": 5.519,
+  "end": 5.833
+ },
+ {
+  "word": "água.",
+  "start": 5.833,
+  "end": 6.222
+ },
+ {
+  "word": "Ele",
+  "start": 6.468,
+  "end": 6.634
+ },
+ {
+  "word": "sorria",
+  "start": 6.634,
+  "end": 7.116
+ },
+ {
+  "word": "e",
+  "start": 7.287,
+  "end": 7.426
+ },
+ {
+  "word": "regava",
+  "start": 7.426,
+  "end": 7.944
+ },
+ {
+  "word": "mesmo",
+  "start": 7.944,
+  "end": 8.241
+ },
+ {
+  "word": "assim.",
+  "start": 8.241,
+  "end": 8.537
+ },
+ {
+  "word": "Veio",
+  "start": 8.773,
+  "end": 9.023
+ },
+ {
+  "word": "o",
+  "start": 9.023,
+  "end": 9.069,
+  "estimado": true
+ },
+ {
+  "word": "verão,",
+  "start": 9.023,
+  "end": 9.505
+ },
+ {
+  "word": "veio",
+  "start": 9.806,
+  "end": 9.954
+ },
+ {
+  "word": "o",
+  "start": 9.954,
+  "end": 10.0,
+  "estimado": true
+ },
+ {
+  "word": "frio,",
+  "start": 9.954,
+  "end": 10.38
+ },
+ {
+  "word": "vieram",
+  "start": 10.616,
+  "end": 10.949
+ },
+ {
+  "word": "os",
+  "start": 10.949,
+  "end": 11.134
+ },
+ {
+  "word": "anos.",
+  "start": 11.134,
+  "end": 11.338
+ },
+ {
+  "word": "A",
+  "start": 11.713,
+  "end": 11.806
+ },
+ {
+  "word": "barba",
+  "start": 11.806,
+  "end": 12.176
+ },
+ {
+  "word": "de",
+  "start": 12.176,
+  "end": 12.324
+ },
+ {
+  "word": "Tomás",
+  "start": 12.324,
+  "end": 12.75
+ },
+ {
+  "word": "ficou",
+  "start": 12.75,
+  "end": 12.972
+ },
+ {
+  "word": "branca.",
+  "start": 12.972,
+  "end": 13.435
+ },
+ {
+  "word": "A",
+  "start": 13.69,
+  "end": 13.782
+ },
+ {
+  "word": "pedra",
+  "start": 13.782,
+  "end": 14.171
+ },
+ {
+  "word": "continuava",
+  "start": 14.171,
+  "end": 14.731
+ },
+ {
+  "word": "pedra.",
+  "start": 14.731,
+  "end": 15.139
+ },
+ {
+  "word": "Às",
+  "start": 15.347,
+  "end": 15.542
+ },
+ {
+  "word": "vezes,",
+  "start": 15.542,
+  "end": 15.801
+ },
+ {
+  "word": "ele",
+  "start": 16.171,
+  "end": 16.264
+ },
+ {
+  "word": "encostava",
+  "start": 16.264,
+  "end": 16.819
+ },
+ {
+  "word": "o",
+  "start": 16.819,
+  "end": 17.005
+ },
+ {
+  "word": "ouvido",
+  "start": 17.005,
+  "end": 17.338
+ },
+ {
+  "word": "nela",
+  "start": 17.338,
+  "end": 17.708
+ },
+ {
+  "word": "e",
+  "start": 17.708,
+  "end": 17.819
+ },
+ {
+  "word": "escutava.",
+  "start": 17.819,
+  "end": 18.338
+ },
+ {
+  "word": "Ninguém",
+  "start": 18.583,
+  "end": 18.759
+ },
+ {
+  "word": "sabia",
+  "start": 18.759,
+  "end": 19.037
+ },
+ {
+  "word": "o",
+  "start": 19.037,
+  "end": 19.259
+ },
+ {
+  "word": "quê,",
+  "start": 19.259,
+  "end": 19.389
+ },
+ {
+  "word": "e",
+  "start": 19.569,
+  "end": 19.662
+ },
+ {
+  "word": "ninguém",
+  "start": 19.662,
+  "end": 19.866
+ },
+ {
+  "word": "perguntava.",
+  "start": 19.866,
+  "end": 20.495
+ },
+ {
+  "word": "Até",
+  "start": 20.935,
+  "end": 20.963
+ },
+ {
+  "word": "que,",
+  "start": 20.963,
+  "end": 21.38,
+  "estimado": true
+ },
+ {
+  "word": "numa",
+  "start": 21.495,
+  "end": 21.662
+ },
+ {
+  "word": "noite,",
+  "start": 21.662,
+  "end": 22.088
+ },
+ {
+  "word": "o",
+  "start": 22.287,
+  "end": 22.417
+ },
+ {
+  "word": "céu",
+  "start": 22.417,
+  "end": 22.528
+ },
+ {
+  "word": "desabou.",
+  "start": 22.528,
+  "end": 23.176
+ },
+ {
+  "word": "Choveu",
+  "start": 23.421,
+  "end": 23.838
+ },
+ {
+  "word": "três",
+  "start": 23.935,
+  "end": 24.111
+ },
+ {
+  "word": "dias",
+  "start": 24.111,
+  "end": 24.574
+ },
+ {
+  "word": "sem",
+  "start": 24.574,
+  "end": 24.852
+ },
+ {
+  "word": "parar.",
+  "start": 24.852,
+  "end": 25.185
+ },
+ {
+  "word": "O",
+  "start": 25.523,
+  "end": 25.597
+ },
+ {
+  "word": "rio",
+  "start": 25.597,
+  "end": 25.727
+ },
+ {
+  "word": "subiu,",
+  "start": 25.727,
+  "end": 26.356
+ },
+ {
+  "word": "subiu,",
+  "start": 26.556,
+  "end": 27.12
+ },
+ {
+  "word": "e",
+  "start": 27.292,
+  "end": 27.338
+ },
+ {
+  "word": "começou",
+  "start": 27.338,
+  "end": 27.727
+ },
+ {
+  "word": "a",
+  "start": 27.727,
+  "end": 27.838
+ },
+ {
+  "word": "engolir",
+  "start": 27.838,
+  "end": 28.19
+ },
+ {
+  "word": "a",
+  "start": 28.19,
+  "end": 28.301
+ },
+ {
+  "word": "estrada.",
+  "start": 28.301,
+  "end": 28.69
+ },
+ {
+  "word": "Todo",
+  "start": 28.954,
+  "end": 29.065
+ },
+ {
+  "word": "mundo",
+  "start": 29.065,
+  "end": 29.38
+ },
+ {
+  "word": "correu",
+  "start": 29.38,
+  "end": 29.769
+ },
+ {
+  "word": "pro",
+  "start": 29.769,
+  "end": 29.898,
+  "estimado": true
+ },
+ {
+  "word": "morro.",
+  "start": 29.898,
+  "end": 30.194
+ },
+ {
+  "word": "Tomás",
+  "start": 30.421,
+  "end": 30.894
+ },
+ {
+  "word": "correu",
+  "start": 31.028,
+  "end": 31.343
+ },
+ {
+  "word": "pro",
+  "start": 31.343,
+  "end": 31.509,
+  "estimado": true
+ },
+ {
+  "word": "quintal.",
+  "start": 31.509,
+  "end": 31.843
+ },
+ {
+  "word": "Abraçou",
+  "start": 32.079,
+  "end": 32.514
+ },
+ {
+  "word": "a",
+  "start": 32.514,
+  "end": 32.644
+ },
+ {
+  "word": "pedra",
+  "start": 32.644,
+  "end": 32.995
+ },
+ {
+  "word": "e",
+  "start": 32.995,
+  "end": 33.162
+ },
+ {
+  "word": "sussurrou:",
+  "start": 33.162,
+  "end": 33.625
+ },
+ {
+  "word": "é",
+  "start": 33.852,
+  "end": 33.991
+ },
+ {
+  "word": "a",
+  "start": 33.991,
+  "end": 34.083
+ },
+ {
+  "word": "sua",
+  "start": 34.083,
+  "end": 34.213
+ },
+ {
+  "word": "vez.",
+  "start": 34.213,
+  "end": 34.509
+ },
+ {
+  "word": "Toc.",
+  "start": 35.079,
+  "end": 35.319,
+  "estimado": "whisper_bruto"
+ },
+ {
+  "word": "A",
+  "start": 35.713,
+  "end": 35.787
+ },
+ {
+  "word": "pedra",
+  "start": 35.787,
+  "end": 36.12
+ },
+ {
+  "word": "rachou.",
+  "start": 36.12,
+  "end": 36.602
+ },
+ {
+  "word": "De",
+  "start": 36.866,
+  "end": 36.977
+ },
+ {
+  "word": "dentro",
+  "start": 36.977,
+  "end": 37.366
+ },
+ {
+  "word": "saiu",
+  "start": 37.477,
+  "end": 37.644,
+  "estimado": "whisper_bruto"
+ },
+ {
+  "word": "um",
+  "start": 37.644,
+  "end": 37.773
+ },
+ {
+  "word": "bicho",
+  "start": 37.773,
+  "end": 38.144
+ },
+ {
+  "word": "enorme,",
+  "start": 38.144,
+  "end": 38.681
+ },
+ {
+  "word": "de",
+  "start": 38.898,
+  "end": 39.009
+ },
+ {
+  "word": "pedra",
+  "start": 39.009,
+  "end": 39.468
+ },
+ {
+  "word": "e",
+  "start": 39.565,
+  "end": 39.648
+ },
+ {
+  "word": "musgo.",
+  "start": 39.648,
+  "end": 40.037
+ },
+ {
+  "word": "Ele",
+  "start": 40.282,
+  "end": 40.44
+ },
+ {
+  "word": "se",
+  "start": 40.44,
+  "end": 40.625
+ },
+ {
+  "word": "deitou",
+  "start": 40.625,
+  "end": 40.991
+ },
+ {
+  "word": "na",
+  "start": 40.991,
+  "end": 41.102
+ },
+ {
+  "word": "beira",
+  "start": 41.102,
+  "end": 41.324
+ },
+ {
+  "word": "do",
+  "start": 41.324,
+  "end": 41.454
+ },
+ {
+  "word": "rio,",
+  "start": 41.454,
+  "end": 41.731
+ },
+ {
+  "word": "e",
+  "start": 41.903,
+  "end": 41.986
+ },
+ {
+  "word": "a",
+  "start": 41.986,
+  "end": 42.116
+ },
+ {
+  "word": "água",
+  "start": 42.116,
+  "end": 42.356
+ },
+ {
+  "word": "parou",
+  "start": 42.356,
+  "end": 42.69
+ },
+ {
+  "word": "nas",
+  "start": 42.69,
+  "end": 42.819
+ },
+ {
+  "word": "suas",
+  "start": 42.819,
+  "end": 42.968
+ },
+ {
+  "word": "costas.",
+  "start": 42.968,
+  "end": 43.486
+ },
+ {
+  "word": "De",
+  "start": 43.75,
+  "end": 43.87
+ },
+ {
+  "word": "manhã,",
+  "start": 43.87,
+  "end": 44.204
+ },
+ {
+  "word": "ninguém",
+  "start": 44.347,
+  "end": 44.588
+ },
+ {
+  "word": "mais",
+  "start": 44.588,
+  "end": 44.866
+ },
+ {
+  "word": "ria.",
+  "start": 44.866,
+  "end": 45.106
+ },
+ {
+  "word": "Tomás",
+  "start": 45.667,
+  "end": 46.0
+ },
+ {
+  "word": "nunca",
+  "start": 46.0,
+  "end": 46.333
+ },
+ {
+  "word": "regou",
+  "start": 46.333,
+  "end": 46.685
+ },
+ {
+  "word": "uma",
+  "start": 46.685,
+  "end": 46.833
+ },
+ {
+  "word": "pedra.",
+  "start": 46.833,
+  "end": 47.185
+ },
+ {
+  "word": "Regou",
+  "start": 47.412,
+  "end": 47.755
+ },
+ {
+  "word": "a",
+  "start": 47.755,
+  "end": 47.884
+ },
+ {
+  "word": "vila",
+  "start": 47.884,
+  "end": 48.144
+ },
+ {
+  "word": "inteira.",
+  "start": 48.144,
+  "end": 48.532
+ }
+]

@@ -1,0 +1,13 @@
+{
+  "elevenlabs": {
+    "modelo": "eleven_v4",
+    "idioma": "pt",
+    "stability": 0.5,
+    "similarity_boost": 0.75,
+    "tom_padrao": "alegre",
+    "vozes_por_tom": {
+      "alegre": {"voice_id": "wHnxjlY53t8X9Oi14Awz", "nome": "Juliano Magalhães"},
+      "terror": {"voice_id": "NFmEzNOony1UsEJGXLth", "nome": "Carlos"}
+    }
+  }
+}

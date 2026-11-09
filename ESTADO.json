@@ -1,0 +1,45 @@
+{
+  "versao": 1,
+  "atualizado": "2026-11-09 13:49",
+  "videos": {
+    "VIDEO_001": {
+      "titulo": "Beta: história completa de ~45 s",
+      "criado": "2026-11-09 11:24",
+      "etapa": "8_distribuicao",
+      "status": "approved",
+      "responsavel": "orquestrador",
+      "rodadas": {
+        "roteirista": 0,
+        "editor": 1,
+        "marketing": 0
+      },
+      "aprovacoes": {
+        "briefing": "2026-11-09 11:26"
+      },
+      "autorizado": false,
+      "autorizacao": null,
+      "publicacao": {
+        "publicado": null,
+        "tiktok_rascunho": null,
+        "agenda_postagem": null,
+        "agenda_metricas": null
+      },
+      "historico": [
+        "2026-11-09 11:24 · criado: Beta: história completa de ~45 s",
+        "2026-11-09 11:24 · marketing iniciou",
+        "2026-11-09 11:26 · marketing → completed → orquestrador: Briefing beta v1 (rascunho) de ~45 s: fábula com virada final, 4 cenas, 2 personagens, ~135 palavras, legendas em caixa ",
+        "2026-11-09 11:26 · briefing aprovado",
+        "2026-11-09 11:26 · roteirista iniciou",
+        "2026-11-09 11:28 · roteirista → completed → editor: Roteiro 'O velho que regava uma pedra': 4 cenas (8+12+14+13 = 47 s), 140 palavras; gancho em ~2,2 s; final retoma o ganc",
+        "2026-11-09 11:29 · editor iniciou",
+        "2026-11-09 12:22 · editor → completed → revisor: video_final.mp4 de 49,6 s, 1080×1920, 30 fps, H.264+AAC, -14,0 LUFS / -1,1 dBTP, 4 cenas 2D em Remotion com legenda pala",
+        "2026-11-09 12:22 · revisor iniciou",
+        "2026-11-09 12:33 · revisor → revision_required → editor: Técnico ok (1080×1920, 30 fps, 49,6 s, -14,0 LUFS/-1,1 dBTP, 0 frames pretos/congelados, 51 telas de legenda sem erro, s",
+        "2026-11-09 12:34 · editor iniciou",
+        "2026-11-09 13:39 · editor → completed → revisor: Rodada 1 corrigida (#1, #2, #3, #4, #6, #7). O plano final mostra o rosto inteiro do Pedrinha, a barragem aparece em 'pa",
+        "2026-11-09 13:39 · revisor iniciou",
+        "2026-11-09 13:49 · revisor → approved → orquestrador: Rodada 2: os 6 itens corrigidos foram conferidos. 49,6 s, -14,0 LUFS, -1,1 dBTP, emendas sem pulo; voz 23,7 dB acima do "
+      ]
+    }
+  }
+}

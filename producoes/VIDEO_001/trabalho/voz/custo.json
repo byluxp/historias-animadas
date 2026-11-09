@@ -1,0 +1,24 @@
+{
+ "motor": "gemini",
+ "modelo": "gemini-3.8-flash-lite-tts",
+ "voz": "Sulafat",
+ "caracteres": 836,
+ "tokens": {
+  "promptTokenCount": 246,
+  "candidatesTokenCount": 1686,
+  "totalTokenCount": 1932,
+  "promptTokensDetails": [
+   {
+    "modality": "TEXT",
+    "tokenCount": 246
+   }
+  ],
+  "candidatesTokensDetails": [
+   {
+    "modality": "AUDIO",
+    "tokenCount": 1686
+   }
+  ],
+  "serviceTier": "standard"
+ }
+}

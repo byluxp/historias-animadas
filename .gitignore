@@ -1,0 +1,17 @@
+# Local secrets written by `elevenlabs onboard`
+/.env.local
+.venv/
+estudio/node_modules/
+estudio/out/
+__pycache__/
+
+# Mídia pesada fica só no computador (o git guarda código, regras, roteiros e memória)
+*.mp4
+*.wav
+*.mp3
+producoes/*/trabalho/render/
+producoes/*/trabalho/stills/
+producoes/*/trabalho/qa/
+producoes/*/trabalho/audio/
+estudio/public/
+testes/vozes/
